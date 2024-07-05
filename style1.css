@@ -1,0 +1,62 @@
+.jmb1:hover {
+          background-image: url(images/card\ 1.jpg);
+          color: white;
+          text-shadow: 2px 2px 2px black;}
+
+.jmb2:hover {
+          background-image: url(images/card\ 2.jpeg);
+          color: white;
+          text-shadow: 2px 2px 2px black;}
+
+.jmb3:hover {
+            background-image: url(images/card\ 3.jpg);
+            color: white;
+            text-shadow: 2px 2px 2px black;}
+.jmb4:hover {
+                background-image: url(images/card\ 4.jpg);
+                color: white;
+                text-shadow: 2px 2px 2px black;}
+.jmb5:hover {
+                    background-image: url(images/card\ 5.jpg);
+                    color: white;
+                    text-shadow: 2px 2px 2px black;}
+
+      .jumbotron h1 {
+          font-family: 'Sacramento', cursive;}
+.color{
+    color: rgba(30, 160,  187, 0.986);
+}
+.card{
+    border: none;
+}
+.map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .map-container iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
+    .panel-heading {
+        padding: 5px 15px;
+    }
+    
+    .panel-footer {
+        padding: 1px 15px;
+        color: #A0A0A0;
+    }
+    
+    .profile-img {
+        width: 96px;
+        height: 96px;
+        margin: 0 auto 10px;
+        display: block;
+        -moz-border-radius: 50%;
+        -webkit-border-radius: 50%;
+        border-radius: 50%;
+    }
